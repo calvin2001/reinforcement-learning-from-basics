@@ -10,7 +10,7 @@
 
 | # | Chapter | Keywords | Note | Code |
 |:--:|:--|:--|:--:|:--:|
-| 01 | 강화 학습이란 | `Agent` `Environment` `Reward` | ⬜ | — |
+| 01 | 강화 학습이란 | `Agent` `Environment` `Reward` | [Note](notes/ch01.md) | — |
 | 02 | 마르코프 결정 프로세스 | `MP` `MRP` `MDP` | ⬜ | — |
 | 03 | 벨만 방정식 | `Bellman Expectation` `Bellman Optimality` | ⬜ | — |
 | 04 | MDP를 알 때의 플래닝 | `Policy Iteration` `Value Iteration` | ⬜ | ⬜ |
@@ -27,8 +27,6 @@
 ---
 
 ## 노트 형식
-
-각 노트는 네 가지를 담습니다. 요약만 하면 책을 덮는 순간 남는 게 없어서, 세 번째와 네 번째를 반드시 채우는 것을 규칙으로 둡니다.
 
 1. **한 줄 요약** — 이 챕터가 해결하는 문제
 2. **왜 필요한가** — 앞 챕터의 어떤 한계에서 출발했는지
